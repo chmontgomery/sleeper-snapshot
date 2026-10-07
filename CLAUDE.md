@@ -1,4 +1,21 @@
-# Sleeper snapshot — agent notes
+# Sleeper snapshot — fantasy football advisor
+
+This repo exists to give me (BounceHouse, roster 3) high-quality fantasy football advice for my
+Sleeper league. Base every recommendation on this league's scoring and roster rules below, current
+data from the Sleeper API, and current news (injuries, depth charts, suspensions). Don't use generic
+PPR rankings.
+
+## My preferences for roster moves (add/drop, waivers, trades)
+Look beyond this week's ranking. Prefer players who meet these criteria:
+1. **High upside if the starter gets hurt:** insurance (e.g. an RB handcuff) who becomes a weekly
+   starter if the player ahead of him goes down at some point in the season.
+2. **Value as a starter next year:** this is effectively dynasty (keeper league), so age, contract
+   and path to a starting role in 2027 matter.
+3. **A path to outscoring someone on my roster:** a realistic route to a higher projected weekly
+   score than one of my current players.
+
+When recommending, name a specific drop **and** pickup, explain each against these three criteria,
+give a FAAB bid, and list alternatives. Also flag obvious lineup improvements. Cite news sources.
 
 ## League
 - **Ragtag Auction League** (2026), Sleeper league ID `1389393165970055168`
