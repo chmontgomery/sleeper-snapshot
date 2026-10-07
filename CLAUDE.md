@@ -24,6 +24,10 @@ Also:
   them only as a rough hint, never as the basis for a recommendation. Rely on a few quality outside
   experts instead (e.g. Jake Ciely; prefer analysts with strong accuracy track records over consensus
   aggregators). Adjust their PPR/half-PPR takes to this league's standard scoring.
+  - **Jake Ciely (The Athletic)** is the main source. The Athletic is paywalled and WebFetch can't reach it; read it
+    through Claude in Chrome (I'm signed in). Weekly pieces: rankings/start-sit notes and the waiver wire
+    (which includes his "Purely Next Man Up" handcuff ranks and stash lists, both good fits for my criteria).
+    Example: https://www.nytimes.com/athletic/7663559/2026/10/06/fantasy-football-waiver-wire-streamers-week-5/
 - Sleeper's actual weekly **stats** (snaps, yards, TDs) are fine to use; rescore them with this league's settings.
 
 When recommending, name a specific drop **and** pickup, explain each against these three criteria,
