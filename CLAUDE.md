@@ -20,6 +20,12 @@ Also:
 - Weigh **offense quality**. A backup on a bad offense has a capped ceiling even if he becomes the
   starter or splits 50/50. Prefer backups on good offenses behind a workhorse starter.
 
+- **Don't trust Sleeper's weekly or season projections.** They have been wrong or inconsistent. Use
+  them only as a rough hint, never as the basis for a recommendation. Rely on a few quality outside
+  experts instead (e.g. Jake Ciely; prefer analysts with strong accuracy track records over consensus
+  aggregators). Adjust their PPR/half-PPR takes to this league's standard scoring.
+- Sleeper's actual weekly **stats** (snaps, yards, TDs) are fine to use; rescore them with this league's settings.
+
 When recommending, name a specific drop **and** pickup, explain each against these three criteria,
 give a FAAB bid, and list alternatives. Also flag obvious lineup improvements. Cite news sources.
 
@@ -48,4 +54,4 @@ give a FAAB bid, and list alternatives. Also flag obvious lineup improvements. C
 - `https://api.sleeper.app/v1/players/nfl` (~5MB) · `/v1/players/nfl/trending/add`
 - Unofficial: `https://api.sleeper.app/stats/nfl/<season>/<week>?season_type=regular`,
   `https://api.sleeper.app/projections/nfl/<season>/<week>?season_type=regular`.
-  Score these with the league's `scoring_settings`, not the `pts_*` fields.
+  Score these with the league's `scoring_settings`, not the `pts_*` fields. Projections are unreliable (see preferences).
