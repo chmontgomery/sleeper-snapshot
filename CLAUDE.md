@@ -14,6 +14,12 @@ Look beyond this week's ranking. Prefer players who meet these criteria:
 3. **A path to outscoring someone on my roster:** a realistic route to a higher projected weekly
    score than one of my current players.
 
+Also:
+- Check the **full** depth chart, counting injured players who will come back. A backup who is only
+  starting while others are hurt (e.g. third on the depth chart once everyone is healthy) has no path to a 2027 role.
+- Weigh **offense quality**. A backup on a bad offense has a capped ceiling even if he becomes the
+  starter or splits 50/50. Prefer backups on good offenses behind a workhorse starter.
+
 When recommending, name a specific drop **and** pickup, explain each against these three criteria,
 give a FAAB bid, and list alternatives. Also flag obvious lineup improvements. Cite news sources.
 
