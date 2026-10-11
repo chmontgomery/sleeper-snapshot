@@ -89,6 +89,11 @@
     "position": "TE",
     "team": "LV"
   },
+  "11610": {
+    "name": "Malik Washington",
+    "position": "WR",
+    "team": "MIA"
+  },
   "11620": {
     "name": "Rome Odunze",
     "position": "WR",
@@ -363,6 +368,11 @@
     "name": "Derrick Henry",
     "position": "RB",
     "team": "BAL"
+  },
+  "3257": {
+    "name": "Jacoby Brissett",
+    "position": "QB",
+    "team": "ARI"
   },
   "3294": {
     "name": "Dak Prescott",
@@ -809,6 +819,11 @@
     "position": "RB",
     "team": "ATL"
   },
+  "9511": {
+    "name": "Keaton Mitchell",
+    "position": "RB",
+    "team": "LAC"
+  },
   "9753": {
     "name": "Zach Charbonnet",
     "position": "RB",
@@ -843,6 +858,16 @@
     "name": "Chicago Bears",
     "position": "DEF",
     "team": "CHI"
+  },
+  "CIN": {
+    "name": "Cincinnati Bengals",
+    "position": "DEF",
+    "team": "CIN"
+  },
+  "CLE": {
+    "name": "Cleveland Browns",
+    "position": "DEF",
+    "team": "CLE"
   },
   "DEN": {
     "name": "Denver Broncos",
@@ -883,6 +908,11 @@
     "name": "Minnesota Vikings",
     "position": "DEF",
     "team": "MIN"
+  },
+  "NYJ": {
+    "name": "New York Jets",
+    "position": "DEF",
+    "team": "NYJ"
   },
   "PHI": {
     "name": "Philadelphia Eagles",
