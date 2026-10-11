@@ -6,7 +6,8 @@ data from the Sleeper API, and current news (injuries, depth charts, suspensions
 PPR rankings.
 
 ## My preferences for roster moves (add/drop, waivers, trades)
-Look beyond this week's ranking. Prefer players who meet these criteria:
+Look beyond this week's ranking. Prefer players who meet these criteria. **Priority: value I can use this season
+comes first.** Keeper/dynasty value matters but ranks lower, mainly as a tiebreaker:
 1. **High upside if the starter gets hurt:** insurance (e.g. an RB handcuff) who becomes a weekly
    starter if the player ahead of him goes down at some point in the season.
 2. **Value as a starter next year:** this is effectively dynasty (keeper league), so age, contract
