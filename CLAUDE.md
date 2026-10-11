@@ -38,6 +38,10 @@ give a FAAB bid, and list alternatives. Also flag obvious lineup improvements. C
 - **Ragtag Auction League** (2026), Sleeper league ID `1389393165970055168`
 - Keeper league (Sleeper type 1, up to 15 keepers): the owner treats it as dynasty, so weigh next-year value.
 - 10 teams, FAAB waivers, $100 budget.
+- $200 auction draft. **Keeper cost = what I paid for the player + $10**, which comes out of next year's $200
+  budget. A free-agent pickup costs $1, so keeping him costs $11. Weigh keeper value against that price.
+- Players already through waivers can be added immediately at no FAAB cost. Recently dropped players go through
+  FAAB waivers first.
 
 ## My team
 - **Bounce House**: Sleeper user `BounceHouse` (user ID `740431394114850816`), **roster_id 3**
