@@ -1,4 +1,9 @@
 {
+  "10213": {
+    "name": "Tre Tucker",
+    "position": "WR",
+    "team": "LV"
+  },
   "10219": {
     "name": "Chris Rodriguez",
     "position": "RB",
@@ -269,6 +274,16 @@
     "position": "QB",
     "team": "LV"
   },
+  "13274": {
+    "name": "Germie Bernard",
+    "position": "WR",
+    "team": "PIT"
+  },
+  "13276": {
+    "name": "Omar Cooper Jr.",
+    "position": "WR",
+    "team": "NYJ"
+  },
   "13279": {
     "name": "Carnell Tate",
     "position": "WR",
@@ -298,6 +313,11 @@
     "name": "Ja'Kobi Lane",
     "position": "WR",
     "team": "BAL"
+  },
+  "13294": {
+    "name": "Makai Lemon",
+    "position": "WR",
+    "team": "PHI"
   },
   "13298": {
     "name": "KC Concepcion",
@@ -333,6 +353,11 @@
     "name": "Kaelon Black",
     "position": "RB",
     "team": "SF"
+  },
+  "13424": {
+    "name": "Seth McGowan",
+    "position": "RB",
+    "team": "IND"
   },
   "1466": {
     "name": "Travis Kelce",
@@ -374,6 +399,11 @@
     "position": "RB",
     "team": "BAL"
   },
+  "3214": {
+    "name": "Hunter Henry",
+    "position": "TE",
+    "team": "NE"
+  },
   "3257": {
     "name": "Jacoby Brissett",
     "position": "QB",
@@ -413,6 +443,11 @@
     "name": "James Conner",
     "position": "RB",
     "team": "ARI"
+  },
+  "4147": {
+    "name": "Samaje Perine",
+    "position": "RB",
+    "team": "CIN"
   },
   "4199": {
     "name": "Aaron Jones",
@@ -554,6 +589,11 @@
     "position": "WR",
     "team": "CIN"
   },
+  "6804": {
+    "name": "Jordan Love",
+    "position": "QB",
+    "team": "GB"
+  },
   "6806": {
     "name": "J.K. Dobbins",
     "position": "RB",
@@ -638,6 +678,11 @@
     "name": "Chuba Hubbard",
     "position": "RB",
     "team": "CAR"
+  },
+  "7600": {
+    "name": "Pat Freiermuth",
+    "position": "TE",
+    "team": "PIT"
   },
   "7611": {
     "name": "Rhamondre Stevenson",
@@ -789,6 +834,11 @@
     "position": "QB",
     "team": "CAR"
   },
+  "9480": {
+    "name": "Brenton Strange",
+    "position": "TE",
+    "team": "JAX"
+  },
   "9484": {
     "name": "Tucker Kraft",
     "position": "TE",
@@ -889,6 +939,11 @@
     "position": "DEF",
     "team": "HOU"
   },
+  "IND": {
+    "name": "Indianapolis Colts",
+    "position": "DEF",
+    "team": "IND"
+  },
   "JAX": {
     "name": "Jacksonville Jaguars",
     "position": "DEF",
@@ -914,6 +969,11 @@
     "position": "DEF",
     "team": "MIN"
   },
+  "NE": {
+    "name": "New England Patriots",
+    "position": "DEF",
+    "team": "NE"
+  },
   "NYJ": {
     "name": "New York Jets",
     "position": "DEF",
@@ -938,5 +998,10 @@
     "name": "Tampa Bay Buccaneers",
     "position": "DEF",
     "team": "TB"
+  },
+  "WAS": {
+    "name": "Washington Commanders",
+    "position": "DEF",
+    "team": "WAS"
   }
 }
