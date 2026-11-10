@@ -109,6 +109,11 @@
     "position": "WR",
     "team": "KC"
   },
+  "11625": {
+    "name": "Adonai Mitchell",
+    "position": "WR",
+    "team": "NYJ"
+  },
   "11628": {
     "name": "Marvin Harrison",
     "position": "WR",
@@ -153,6 +158,11 @@
     "name": "Kirk Cousins",
     "position": "QB",
     "team": "LV"
+  },
+  "11783": {
+    "name": "Ryan Flournoy",
+    "position": "WR",
+    "team": "DAL"
   },
   "11834": {
     "name": "Devaughn Vele",
@@ -494,6 +504,11 @@
     "position": "QB",
     "team": "BUF"
   },
+  "4993": {
+    "name": "Mike Gesicki",
+    "position": "TE",
+    "team": "CIN"
+  },
   "5012": {
     "name": "Mark Andrews",
     "position": "TE",
@@ -558,6 +573,11 @@
     "name": "Tony Pollard",
     "position": "RB",
     "team": "TEN"
+  },
+  "6130": {
+    "name": "Devin Singletary",
+    "position": "RB",
+    "team": "NYG"
   },
   "6770": {
     "name": "Joe Burrow",
@@ -929,6 +949,11 @@
     "position": "DEF",
     "team": "DEN"
   },
+  "DET": {
+    "name": "Detroit Lions",
+    "position": "DEF",
+    "team": "DET"
+  },
   "GB": {
     "name": "Green Bay Packers",
     "position": "DEF",
@@ -948,6 +973,11 @@
     "name": "Jacksonville Jaguars",
     "position": "DEF",
     "team": "JAX"
+  },
+  "KC": {
+    "name": "Kansas City Chiefs",
+    "position": "DEF",
+    "team": "KC"
   },
   "LAC": {
     "name": "Los Angeles Chargers",
@@ -973,6 +1003,11 @@
     "name": "New England Patriots",
     "position": "DEF",
     "team": "NE"
+  },
+  "NO": {
+    "name": "New Orleans Saints",
+    "position": "DEF",
+    "team": "NO"
   },
   "NYJ": {
     "name": "New York Jets",

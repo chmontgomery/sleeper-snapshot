@@ -53,6 +53,13 @@ give a FAAB bid, and list alternatives. Also flag obvious lineup improvements. C
 - Kick and punt return yards: 0.04/yd. Fumble lost: -2. 2-pt conversions: 2.
 - Lineup: QB, RB, RB, WR, WR, TE, FLEX, FLEX, DEF + 6 BN; 1 IR slot (OUT allowed). No kicker.
 
+## Automation
+- `.github/workflows/pull-rosters.yml` runs the roster pull daily (11:00 UTC, also manual via
+  workflow_dispatch) and commits `rosters.json` / `players.json` when they change. `git pull` before
+  advising. The commit body lists adds/drops per team since the previous snapshot.
+- `players.json` only covers **rostered** players. For free agents, fetch `/v1/players/nfl` and
+  `/v1/players/nfl/trending/add` live and exclude anyone in `rosters.json`.
+
 ## Files
 - `rosters.json`: raw `GET /v1/league/<id>/rosters`, one line
 - `league_rules.json`: roster positions and scoring settings
