@@ -2,7 +2,7 @@ name: Pull Sleeper rosters
 
 on:
   schedule:
-    - cron: "0 11 * * *" # daily, 11:00 UTC (6-7am Central) after overnight waivers
+    - cron: "0 11 * * *" # daily 11:00 UTC = 5am CST (6am CDT); cron is UTC-only, no DST
   workflow_dispatch:
 
 permissions:
