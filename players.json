@@ -189,6 +189,11 @@
     "position": "RB",
     "team": "JAX"
   },
+  "12491": {
+    "name": "Corey Kiner",
+    "position": "RB",
+    "team": "NE"
+  },
   "12493": {
     "name": "Oronde Gadsden",
     "position": "TE",
@@ -764,6 +769,11 @@
     "position": "RB",
     "team": "ARI"
   },
+  "8134": {
+    "name": "Khalil Shakir",
+    "position": "WR",
+    "team": "BUF"
+  },
   "8136": {
     "name": "Rachaad White",
     "position": "RB",
@@ -919,6 +929,11 @@
     "position": "WR",
     "team": "HOU"
   },
+  "9504": {
+    "name": "Kayshon Boutte",
+    "position": "WR",
+    "team": "HOU"
+  },
   "9509": {
     "name": "Bijan Robinson",
     "position": "RB",
@@ -928,6 +943,11 @@
     "name": "Keaton Mitchell",
     "position": "RB",
     "team": "LAC"
+  },
+  "96": {
+    "name": "Aaron Rodgers",
+    "position": "QB",
+    "team": "PIT"
   },
   "9753": {
     "name": "Zach Charbonnet",
