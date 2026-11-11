@@ -25,14 +25,18 @@ jobs:
       - name: Pull rosters
         run: python3 .claude/skills/pull-sleeper-rosters/scripts/pull_rosters.py | tee changes.txt
 
+      - name: Pull weekly matchups, transactions and draft
+        run: python3 .claude/skills/pull-sleeper-rosters/scripts/pull_history.py | tee -a changes.txt
+
       - name: Commit and push if changed
         run: |
-          if git diff --quiet -- rosters.json players.json; then
-            echo "No roster changes."
+          git add rosters.json players.json
+          if [ -d history ]; then git add history; fi
+          if git diff --cached --quiet; then
+            echo "No changes."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898783+github-actions[bot]@users.noreply.github.com"
-          git add rosters.json players.json
           git commit -m "sleeper rosters snapshot $(date -u +%F) (automated)" -m "$(cat changes.txt)"
           git push
