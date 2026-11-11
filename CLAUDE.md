@@ -55,15 +55,22 @@ give a FAAB bid, and list alternatives. Also flag obvious lineup improvements. C
 
 ## Automation
 - `.github/workflows/pull-rosters.yml` runs the roster pull daily (11:00 UTC = 5am CST, also manual via
-  workflow_dispatch) and commits `rosters.json` / `players.json` when they change. `git pull` before
-  advising. The commit body lists adds/drops per team since the previous snapshot.
-- `players.json` only covers **rostered** players. For free agents, fetch `/v1/players/nfl` and
+  workflow_dispatch) and commits `rosters.json` / `players.json` / `history/` when they change. `git pull`
+  before advising. The commit body lists adds/drops per team since the previous snapshot.
+- `players.json` covers players who are or were rostered this season (including anyone in `history/`), not
+  free agents in general. For free agents, fetch `/v1/players/nfl` and
   `/v1/players/nfl/trending/add` live and exclude anyone in `rosters.json`.
 
 ## Files
 - `rosters.json`: raw `GET /v1/league/<id>/rosters`, one line
 - `league_rules.json`: roster positions and scoring settings
 - `players.json`: player ID → name, position and team for rostered players (subset of `/v1/players/nfl`)
+- `history/matchups/week_NN.json`: raw `GET /v1/league/<id>/matchups/<week>` (each team's points, starters and
+  per-player points that week). Use for weekly results, all-play records and week-by-week power rankings.
+- `history/transactions/week_NN.json`: raw `GET /v1/league/<id>/transactions/<week>` (trades, waiver and free-agent
+  moves with FAAB bids). Replay these to rebuild any team's roster at any week.
+- `history/draft_picks.json`: raw `GET /v1/draft/<draft_id>/picks` (auction prices in `metadata.amount`), the
+  preseason roster baseline and the source of keeper costs.
 
 ## Useful Sleeper endpoints
 - `https://api.sleeper.app/v1/league/<id>/rosters` · `/users` · `/v1/state/nfl`
