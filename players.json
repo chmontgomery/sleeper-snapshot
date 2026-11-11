@@ -329,6 +329,11 @@
     "position": "WR",
     "team": "PHI"
   },
+  "13296": {
+    "name": "Caleb Douglas",
+    "position": "WR",
+    "team": "MIA"
+  },
   "13298": {
     "name": "KC Concepcion",
     "position": "WR",
@@ -509,6 +514,11 @@
     "position": "TE",
     "team": "CIN"
   },
+  "5001": {
+    "name": "Dalton Schultz",
+    "position": "TE",
+    "team": "HOU"
+  },
   "5012": {
     "name": "Mark Andrews",
     "position": "TE",
@@ -543,6 +553,11 @@
     "name": "Josh Jacobs",
     "position": "RB",
     "team": "GB"
+  },
+  "5857": {
+    "name": "Noah Fant",
+    "position": "TE",
+    "team": "NO"
   },
   "5859": {
     "name": "A.J. Brown",
@@ -729,6 +744,11 @@
     "position": "WR",
     "team": "TEN"
   },
+  "8129": {
+    "name": "Dameon Pierce",
+    "position": "RB",
+    "team": null
+  },
   "8130": {
     "name": "Trey McBride",
     "position": "TE",
@@ -804,6 +824,11 @@
     "position": "WR",
     "team": "GB"
   },
+  "8180": {
+    "name": "Jalen Nailor",
+    "position": "WR",
+    "team": "LV"
+  },
   "8183": {
     "name": "Brock Purdy",
     "position": "QB",
@@ -864,6 +889,11 @@
     "position": "TE",
     "team": "GB"
   },
+  "9486": {
+    "name": "Dontayvion Wicks",
+    "position": "WR",
+    "team": "PHI"
+  },
   "9487": {
     "name": "Parker Washington",
     "position": "WR",
@@ -914,9 +944,24 @@
     "position": "WR",
     "team": "MIN"
   },
+  "9757": {
+    "name": "Kendre Miller",
+    "position": "RB",
+    "team": "DAL"
+  },
+  "9758": {
+    "name": "C.J. Stroud",
+    "position": "QB",
+    "team": "HOU"
+  },
   "9997": {
     "name": "Zay Flowers",
     "position": "WR",
+    "team": "BAL"
+  },
+  "BAL": {
+    "name": "Baltimore Ravens",
+    "position": "DEF",
     "team": "BAL"
   },
   "BUF": {
@@ -1028,6 +1073,11 @@
     "name": "Seattle Seahawks",
     "position": "DEF",
     "team": "SEA"
+  },
+  "SF": {
+    "name": "San Francisco 49ers",
+    "position": "DEF",
+    "team": "SF"
   },
   "TB": {
     "name": "Tampa Bay Buccaneers",
