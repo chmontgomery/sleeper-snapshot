@@ -279,6 +279,11 @@
     "position": "RB",
     "team": "CHI"
   },
+  "12540": {
+    "name": "Chimere Dike",
+    "position": "WR",
+    "team": "TEN"
+  },
   "12545": {
     "name": "Tyler Shough",
     "position": "QB",
@@ -898,6 +903,11 @@
     "name": "Brenton Strange",
     "position": "TE",
     "team": "JAX"
+  },
+  "9482": {
+    "name": "Michael Mayer",
+    "position": "TE",
+    "team": "LV"
   },
   "9484": {
     "name": "Tucker Kraft",
