@@ -34,6 +34,11 @@
     "position": "TE",
     "team": "DET"
   },
+  "11199": {
+    "name": "Emari Demercado",
+    "position": "RB",
+    "team": "HOU"
+  },
   "11435": {
     "name": "Emanuel Wilson",
     "position": "RB",
@@ -293,6 +298,11 @@
     "name": "Konata Mumpfield",
     "position": "WR",
     "team": "LAR"
+  },
+  "13075": {
+    "name": "Myles Price",
+    "position": "WR",
+    "team": "MIN"
   },
   "13269": {
     "name": "Fernando Mendoza",
