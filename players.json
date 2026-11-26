@@ -404,6 +404,11 @@
     "position": "RB",
     "team": "IND"
   },
+  "1373": {
+    "name": "Geno Smith",
+    "position": "QB",
+    "team": "NYJ"
+  },
   "1466": {
     "name": "Travis Kelce",
     "position": "TE",
@@ -463,6 +468,11 @@
     "name": "Kalif Raymond",
     "position": "WR",
     "team": "CHI"
+  },
+  "4017": {
+    "name": "Deshaun Watson",
+    "position": "QB",
+    "team": "CLE"
   },
   "4034": {
     "name": "Christian McCaffrey",
